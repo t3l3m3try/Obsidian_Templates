@@ -1,38 +1,43 @@
 # Incident Number
 
 
-# Targeted Company
-[[CompanyName]]
+## Targeted Company
+[[[Company_Name](https://github.com/t3l3m3try/Obsidian_Templates/blob/main/Company.md)]]
 
-# Targeted Sector
+## Targeted Sector
+[[[Sector_Name](https://github.com/t3l3m3try/Obsidian_Templates/blob/main/Sector.md)]]
 
+## Targeted Country
+[[[Country_Name](https://github.com/t3l3m3try/Obsidian_Templates/blob/main/Country.md)]]
 
-# Targeted Country
-
-
-# Threat Actor
-
+## Threat Actor
+[[[Threat_Actor_Name](https://github.com/t3l3m3try/Obsidian_Templates/blob/main/Threat_Actor.md)]]
 
 # Date
 {{date}}
 
+## Initial Attack Vector
+[[[Attack_Vector_Name](https://github.com/t3l3m3try/Obsidian_Templates/blob/main/Attack_Vector.md)]]
 
-# Initial Attack Vector
+## Second Stage Technique
+[[[Attack_Vector_Name](https://github.com/t3l3m3try/Obsidian_Templates/blob/main/Attack_Vector.md)]]
 
-
-# Second Stage Technique
-
-
-# Description
-
-
-# Reference
+## Description
+Incident Description
 
 
-# MISP Event
+## Reference
+Ref Link
 
+
+## IOCs
+Hashes,Domains,IPs
 
 # TAG
 #Incident 
-
+#CompanyName
+#SectorName
+#CountryName
+#ThreatActorName
+#AttackVectorName
 
