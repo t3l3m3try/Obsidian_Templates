@@ -11,7 +11,7 @@
 
 
 # Sector
-
+[[[SectorName](https://github.com/t3l3m3try/Obsidian_Templates/blob/main/Sector.md)]]
 
 # IR Code Name (if any)
 
@@ -23,8 +23,10 @@
 
 
 # Incident
-
+[[[Incident_Number](https://github.com/t3l3m3try/Obsidian_Templates/blob/main/Incident.md)]]
 
 # TAG
 #Company
 #CompanyName
+#Acronym
+#SectorName
