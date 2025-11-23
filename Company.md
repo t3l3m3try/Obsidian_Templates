@@ -1,41 +1,33 @@
 # Company Name
 
 
-
-# Full name
-
+## Full name
 
 
-# Acronym
+## Acronym
 
 
-
-# Main Domain
-
+## Main Domain
 
 
-# Sector
+## Sector
 [[[SectorName](https://github.com/t3l3m3try/Obsidian_Templates/blob/main/Sector.md)]]
 
 
-# IR Code Name (if any)
+## IR Code Name (if any)
 
 
-
-# Customer (yes/no)
-
+## Customer (yes/no)
 
 
-# Contacts
+## Contacts
 
 
-
-# Incident
+## Incident
 [[[Incident_Number](https://github.com/t3l3m3try/Obsidian_Templates/blob/main/Incident.md)]]
 
 
-# TAG
-
+## TAG
 #Company
 #CompanyName
 #Acronym
